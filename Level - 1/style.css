@@ -1,0 +1,24 @@
+div {
+    border: 2px solid gray;
+    font-size: 0;
+  }
+  
+  button {
+    width: 25%;
+    height: 35px;
+  }
+  
+  .clear {
+    background-color: orange;
+    width: 50%;
+  }
+  
+  .submit {
+    background-color: lightgreen;
+    width: 50%;
+  }
+  
+  p{
+    text-align: right;
+    font-size: 15px;
+  }
